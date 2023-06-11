@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clarytaputri
 - 👀 I’m interested in Data Analyst and Data Science
-- 🌱 I’m currently learning about data 
+- 🌱 I’m currently learning about Machine Learning
 - 💞️ I’m looking to collaborate on data analyst and data science project
 - 📫 How to reach me contact on email: claryta290@gmail.com
 
